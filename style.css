@@ -319,6 +319,11 @@ section .title::after{
 }
 .about .about-content .right p{
     text-align: justify;
+    font-family: verdana;
+    color: #4B0082 ;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 22px;
 }
 .about .about-content .right a{
     display: inline-block;
